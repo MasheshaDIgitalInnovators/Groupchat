@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "409478069951",
+    "firebase_url": "https://fir-withdb-f6fe4.firebaseio.com",
+    "project_id": "fir-withdb-f6fe4",
+    "storage_bucket": "fir-withdb-f6fe4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409478069951:android:bd271004723afc9f",
+        "android_client_info": {
+          "package_name": "com.example.mudau.groupchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409478069951-t2nfafkk8gofl5t69jspjs032drmjejk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mudau.groupchat",
+            "certificate_hash": "84e028a692775f12856aaeb435be37bec82cf04e"
+          }
+        },
+        {
+          "client_id": "409478069951-ja0fe76km2i69li9k1s6gidv5eo4m3su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlfBEJ8RmTZE-bAHcqedNvC7qrozxR3d4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409478069951-ja0fe76km2i69li9k1s6gidv5eo4m3su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
